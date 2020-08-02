@@ -1,0 +1,11 @@
+.card-dead{
+    background-color: red;
+}
+
+.card-alive{
+    background-color: green;
+}
+
+.card-footer{
+    color: white
+}
